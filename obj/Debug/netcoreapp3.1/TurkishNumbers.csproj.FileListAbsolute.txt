@@ -1,0 +1,13 @@
+D:\С# Visual Studio\TurkishNumbers\bin\Debug\netcoreapp3.1\TurkishNumbers.exe
+D:\С# Visual Studio\TurkishNumbers\bin\Debug\netcoreapp3.1\TurkishNumbers.deps.json
+D:\С# Visual Studio\TurkishNumbers\bin\Debug\netcoreapp3.1\TurkishNumbers.runtimeconfig.json
+D:\С# Visual Studio\TurkishNumbers\bin\Debug\netcoreapp3.1\TurkishNumbers.runtimeconfig.dev.json
+D:\С# Visual Studio\TurkishNumbers\bin\Debug\netcoreapp3.1\TurkishNumbers.dll
+D:\С# Visual Studio\TurkishNumbers\bin\Debug\netcoreapp3.1\TurkishNumbers.pdb
+D:\С# Visual Studio\TurkishNumbers\obj\Debug\netcoreapp3.1\TurkishNumbers.csprojAssemblyReference.cache
+D:\С# Visual Studio\TurkishNumbers\obj\Debug\netcoreapp3.1\TurkishNumbers.csproj.CoreCompileInputs.cache
+D:\С# Visual Studio\TurkishNumbers\obj\Debug\netcoreapp3.1\TurkishNumbers.AssemblyInfoInputs.cache
+D:\С# Visual Studio\TurkishNumbers\obj\Debug\netcoreapp3.1\TurkishNumbers.AssemblyInfo.cs
+D:\С# Visual Studio\TurkishNumbers\obj\Debug\netcoreapp3.1\TurkishNumbers.dll
+D:\С# Visual Studio\TurkishNumbers\obj\Debug\netcoreapp3.1\TurkishNumbers.pdb
+D:\С# Visual Studio\TurkishNumbers\obj\Debug\netcoreapp3.1\TurkishNumbers.genruntimeconfig.cache
